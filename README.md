@@ -14,3 +14,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  - NodeJS
  - TypeScript
+
+## Uso
+
+``` bash
+# Clonando o repositório
+git clone https://github.com/jeffersondossantosaguiar/Happy_Backend.git
+
+# Install dependencies
+npm install
+````
