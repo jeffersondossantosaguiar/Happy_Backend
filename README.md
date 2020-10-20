@@ -21,6 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 # Clonando o repositório
 git clone https://github.com/jeffersondossantosaguiar/Happy_Backend.git
 
-# Install dependencies
+# Instalando dependências
 npm install
 ````
