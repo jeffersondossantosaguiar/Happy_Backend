@@ -33,7 +33,7 @@ URI padrão - http://localhost:3333/
 ### Consumindo
 
 - Cadastro de orfanatos - POST - http://localhost:3333/orphanages
-- Campos:
+- Campos (todos obrigatórios):
 	-  name: text
 	-  latitude : text
 	- longitude: text
