@@ -6,7 +6,7 @@ Backend do APP Happy desenvolvido na Next Level Week da Rocketseat
 
 # Descrição
 
-Happy é um projeto na Rocketseat desenvolvido para criar um link entre os orfanatos e pessoas que desejam visita-los.
+Happy é um projeto desenvolvido para criar um link entre casas de acolhimento e pessoas que desejam visitá-las. Onde é possível cadastrá-las e disponibilizar informações sobre visitação a regras sobre.
 
 ## Tecnologias 
 
