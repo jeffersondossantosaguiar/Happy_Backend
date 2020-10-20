@@ -1,4 +1,6 @@
-# Happy
+<h1 align="center">Happy</h1>
+
+<img src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-omnistack/master/.github/happy.png" />
 
 Backend do APP Happy desenvolvido na Next Level Week da Rocketseat
 
