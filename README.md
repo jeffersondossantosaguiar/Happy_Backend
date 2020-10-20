@@ -17,6 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Uso
 
+### Instalação
 ``` bash
 # Clonando o repositório
 git clone https://github.com/jeffersondossantosaguiar/Happy_Backend.git
@@ -24,3 +25,26 @@ git clone https://github.com/jeffersondossantosaguiar/Happy_Backend.git
 # Instalando dependências
 npm install
 ````
+### Executando
+``` bash
+npm run dev
+````
+URI padrão - http://localhost:3333/
+### Consumindo
+
+- Cadastro de orfanatos - Método POST - http://localhost:3333/orphanages
+- Campos:
+	-  name: text
+	-  latitude : text
+	- longitude: text
+	- about: text
+	- images: file
+	- instructions: text
+	- opening_hours: text
+	- open_on_weekends: text
+
+- Listagem de orfanatos - Método GET - http://localhost:3333/orphanages
+- Listagem de orfanato específico - Métedo GET - http://localhost:3333/orphanages/:id
+
+
+
