@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - NodeJS
  - TypeScript
  
-Libs usadas
+Libs usadas:
  - [Yup](https://github.com/jquense/yup) - Yup é um JavaScript construtor de esquema para análise e validação de valor.
 
 ## Uso
