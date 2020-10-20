@@ -13,6 +13,7 @@ Happy é um projeto desenvolvido para criar um link entre casas de acolhimento e
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  - NodeJS
+ - Express
  - TypeScript
  
 Libs usadas:
