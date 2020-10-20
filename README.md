@@ -32,7 +32,7 @@ npm run dev
 URI padrão - http://localhost:3333/
 ### Consumindo
 
-- Cadastro de orfanatos - Método POST - http://localhost:3333/orphanages
+- Cadastro de orfanatos - POST - http://localhost:3333/orphanages
 - Campos:
 	-  name: text
 	-  latitude : text
@@ -43,8 +43,8 @@ URI padrão - http://localhost:3333/
 	- opening_hours: text
 	- open_on_weekends: text
 
-- Listagem de orfanatos - Método GET - http://localhost:3333/orphanages
-- Listagem de orfanato específico - Métedo GET - http://localhost:3333/orphanages/:id
+- Listagem de orfanatos - GET - http://localhost:3333/orphanages
+- Listagem de orfanato específico - GET - http://localhost:3333/orphanages/:id
 
 
 
